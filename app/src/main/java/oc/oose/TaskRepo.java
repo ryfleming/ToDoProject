@@ -1,4 +1,7 @@
-package ToDoProject;
+package oc.oose;
+
+import java.util.Date;
+import java.util.List;
 
 public interface TaskRepo {
 
@@ -18,6 +21,6 @@ public interface TaskRepo {
 	 * 
 	 * @param username
 	 */
-	List findByUserName(String username);
+	List<Task> findByUserName(String username);
 
 }

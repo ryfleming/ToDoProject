@@ -1,4 +1,7 @@
-package ToDoProject;
+package oc.oose;
+
+import java.util.Date;
+import java.util.List;
 
 public class TaskRepoImpl {
 
@@ -29,7 +32,7 @@ public class TaskRepoImpl {
 	 * 
 	 * @param username
 	 */
-	public List findByUserName(String username) {
+	public List<Task> findByUserName(String username) {
 		// TODO - implement TaskRepoImpl.findByUserName
 		throw new UnsupportedOperationException();
 	}

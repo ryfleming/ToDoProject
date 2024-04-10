@@ -1,4 +1,6 @@
-package ToDoProject;
+package oc.oose;
+
+import java.util.List;
 
 public interface TaskService {
 

@@ -1,4 +1,6 @@
-package ToDoProject;
+package oc.oose;
+
+import javafx.stage.Stage;
 
 public class ToDoListApp {
 

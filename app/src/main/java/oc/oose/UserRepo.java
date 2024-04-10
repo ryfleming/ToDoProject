@@ -1,4 +1,4 @@
-package ToDoProject;
+package oc.oose;
 
 public interface UserRepo {
 
